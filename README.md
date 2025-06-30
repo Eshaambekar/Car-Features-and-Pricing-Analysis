@@ -53,6 +53,9 @@ Car makers often wonder: Are customers paying more for performance, fuel efficie
 - Compare MSRP vs actual selling price
 - Include more advanced modeling
 
-## 📄 Report
+## 🙋‍♀️ About Me
+I'm an aspiring data analyst skilled in Power BI, Excel, and SQL. This project demonstrates my ability to build interactive dashboards and extract actionable insights from raw data.
 
-See the full report: [Car_Features_Pricing_Analysis_Report.pdf](./Car_Features_Pricing_Analysis_Report.pdf)
+🔗 Connect with me on LinkedIn
+(https://www.linkedin.com/in/esha-ambekar-4b4313246/)
+
