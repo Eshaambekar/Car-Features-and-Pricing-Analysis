@@ -2,6 +2,12 @@
 
 This project explores how different car features such as engine horsepower, fuel type, and body style influence a car's price (MSRP) and popularity.
 
+## 📸 Dashboard Preview
+
+![Car Features](https://github.com/user-attachments/assets/7bc8f9a0-69e5-46fd-82c4-406b8efbc16a)
+
+---
+
 ## 📌 Project Objective
 
 To analyze what features influence car prices the most and provide insights for manufacturers and marketers.
