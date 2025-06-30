@@ -47,18 +47,6 @@ Car makers often wonder: Are customers paying more for performance, fuel efficie
 - Brands like Tesla and Porsche top pricing
 - Popularity varies widely and may affect MSRP
 
-## 📌 Recommendations
-
-- Focus on fuel-efficient models in mass-market segments
-- Reserve high-performance features for luxury lines
-- Monitor brand popularity trends
-
-## 🔍 Limitations
-
-- No resale value or location-based pricing
-- Popularity not well-defined
-- Basic regression only (Excel limitations)
-
 ## 🚀 Future Work
 
 - Use Python or Power BI for deeper, automated analysis
